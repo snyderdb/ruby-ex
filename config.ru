@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>This is MY AWESOME First Openshift Application!</h1>
+            <h1>This is MY OUTSTANDINGLY AWESOME First Openshift Application!</h1>
           </hgroup>
 
 
